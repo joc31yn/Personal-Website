@@ -1,0 +1,14 @@
+.linked_logo:hover{
+    box-shadow: 0rem 0rem 1rem rgba(46, 116, 255, 0.75);
+    z-index: 10;
+}
+
+.github_logo:hover{
+    box-shadow: 0rem 0rem 1rem rgba(95, 96, 99, 0.75);
+    z-index: 10;
+}
+
+.gmail_logo:hover{
+    box-shadow: 0rem 0rem 1rem rgba(250, 73, 73, 0.75);
+    z-index: 10;
+}
